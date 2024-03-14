@@ -30,6 +30,11 @@
 - Portfolio
 <br>
 
+**languages :**
+- Korean
+- Chinese (mandarin)
+- Japanese
+<br>
 
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
