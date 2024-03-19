@@ -99,9 +99,9 @@ JAVAフルスタック過程を終えて機会があれば様々な開発言語�
    <img src="https://img.shields.io/badge/visvim-000000?style=for-the-badge&logo=visvim&logoColor=black"> 
 </a>
 <a href="http://http://yplift.dothome.co.kr/014_Event_Cartier/">
-   <img src="https://img.shields.io/badge/starcraft-000000?style=for-the-badge&logo=starcraft&logoColor=black"> 
+   <img src="https://img.shields.io/badge/starcraft-02569B?style=for-the-badge&logo=starcraft&logoColor=black"> 
 </a>
 <a href="http://yplift.dothome.co.kr/weather/">
-   <img src="https://img.shields.io/badge/React_Weather-000000?style=for-the-badge&logo=ReactWeather&logoColor=black"> 
+   <img src="https://img.shields.io/badge/React_Weather-61DAFB?style=for-the-badge&logo=ReactWeather&logoColor=black"> 
 </a>
 
