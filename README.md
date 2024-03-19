@@ -107,7 +107,7 @@ JAVAフルスタック過程を終えて機会があれば様々な開発言語�
 
 ## Project No1. BOSE ##
 #Project_Bose
-![image](https://github.com/yplift/yplift/assets/163241959/30d433de-a0d2-4d8d-82b2-37f2956ae619)
+![image](https://github.com/yplift/yplift/assets/163241959/a9eb1a52-a6c7-4f4d-917c-8d49edb752ca)
 
 #Introduce
 ![image](https://github.com/yplift/yplift/assets/163241959/d0a81a0d-45e8-4663-a0c4-23949e5c7c6f)
