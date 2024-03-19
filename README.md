@@ -1,4 +1,4 @@
-![image](https://github.com/yplift/yplift/assets/163241959/f3b62f6b-3b65-4ed5-bd93-eb8b9edbbc98)<h1 align="center">Hi, I'm YunYun</h1>
+<h1 align="center">Hi, I'm YunYun</h1>
 <h3 align="center">
   Front-End & Back-End 웹 개발자 윤윤 입니다.
 </h3>
