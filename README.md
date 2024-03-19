@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm YunYun</h1>
 <h3 align="center">
-  Front-End & Back-End 초보 개발자 윤윤 입니다.
+  Front-End & Back-End 웹 개발자 윤윤 입니다.
 </h3>
 <br /><br />
 <p>
