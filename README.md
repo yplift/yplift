@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YunYun</h1>
+![image](https://github.com/yplift/yplift/assets/163241959/f3b62f6b-3b65-4ed5-bd93-eb8b9edbbc98)<h1 align="center">Hi, I'm YunYun</h1>
 <h3 align="center">
   Front-End & Back-End 웹 개발자 윤윤 입니다.
 </h3>
@@ -104,4 +104,36 @@ JAVAフルスタック過程を終えて機会があれば様々な開発言語�
 <a href="http://yplift.dothome.co.kr/weather/">
    <img src="https://img.shields.io/badge/React_Weather-61DAFB?style=for-the-badge&logo=ReactWeather&logoColor=black"> 
 </a>
+
+** BOSE **
+#Project_Bose
+![image](https://github.com/yplift/yplift/assets/163241959/30d433de-a0d2-4d8d-82b2-37f2956ae619)
+
+#Introduce
+![image](https://github.com/yplift/yplift/assets/163241959/d0a81a0d-45e8-4663-a0c4-23949e5c7c6f)
+
+#Information structuring and business analysis
+![image](https://github.com/yplift/yplift/assets/163241959/885a9ab3-6b11-4640-99fe-ef4df562c964)
+
+#Project structure and model
+![image](https://github.com/yplift/yplift/assets/163241959/4937f7e4-fcaf-453a-9559-450c55144194)
+
+#Table design
+![image](https://github.com/yplift/yplift/assets/163241959/f80f21ca-0118-4003-9497-4a32c9ffbbd4)
+
+#Workflow
+![image](https://github.com/yplift/yplift/assets/163241959/0b336f75-26da-4b30-9dac-66b645042229)
+
+#Workflow in membership board
+![image](https://github.com/yplift/yplift/assets/163241959/a37f43dc-c78b-481f-b9e1-c90dcfff0ade)
+
+#Function introduction - Sign up
+https://github.com/yplift/yplift/assets/163241959/f04d7ebf-67f0-4323-b01b-528fdf8fe863
+
+#Function introduction - Login
+https://github.com/yplift/yplift/assets/163241959/7c44e663-ec98-4981-abe0-fa7ba6052fac
+
+#Function introduction - Board
+https://github.com/yplift/yplift/assets/163241959/2aec0e21-3334-408c-863c-0d9d78bb5cfa
+
 
