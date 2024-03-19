@@ -127,6 +127,9 @@ JAVAフルスタック過程を終えて機会があれば様々な開発言語�
 #Workflow in membership board
 ![image](https://github.com/yplift/yplift/assets/163241959/a37f43dc-c78b-481f-b9e1-c90dcfff0ade)
 
+
+
+
 #Function introduction - Sign up
 https://github.com/yplift/yplift/assets/163241959/f04d7ebf-67f0-4323-b01b-528fdf8fe863
 
