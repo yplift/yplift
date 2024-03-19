@@ -105,7 +105,7 @@ JAVAフルスタック過程を終えて機会があれば様々な開発言語�
    <img src="https://img.shields.io/badge/React_Weather-61DAFB?style=for-the-badge&logo=ReactWeather&logoColor=black"> 
 </a>
 
-** BOSE **
+## Project No1. BOSE ##
 #Project_Bose
 ![image](https://github.com/yplift/yplift/assets/163241959/30d433de-a0d2-4d8d-82b2-37f2956ae619)
 
