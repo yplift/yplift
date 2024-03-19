@@ -131,18 +131,24 @@ JAVAフルスタック過程を終えて機会があれば様々な開発言語�
 
 
 #Function introduction - Sign up
+
+
 https://github.com/yplift/yplift/assets/163241959/f04d7ebf-67f0-4323-b01b-528fdf8fe863
 
 
 
 
 #Function introduction - Login
+
+
 https://github.com/yplift/yplift/assets/163241959/7c44e663-ec98-4981-abe0-fa7ba6052fac
 
 
 
 
 #Function introduction - Board
+
+
 https://github.com/yplift/yplift/assets/163241959/2aec0e21-3334-408c-863c-0d9d78bb5cfa
 
 
