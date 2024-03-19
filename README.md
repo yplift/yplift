@@ -19,7 +19,7 @@
 배웠으며, 이를 실무에도 충분히 활용 및 적용 할 수 있다고 확신합니다.
 </p>
   
-- 💼 개발에 관련하여 소통하고 싶으시다면 망설이지 말고 메일을 주세요! [email](mail to: yplift@naver.com) :)
+- 💼 개발에 관련하여 소통하고 싶으시다면 망설이지 말고 메일을 주세요! e-mail : yplift@naver.com
 - 💬 어떤 것이든 편안하게 문의해 주세요, 기꺼이 도움을 드리고 소통하고자 합니다!
 <br>
 
@@ -28,6 +28,7 @@
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
 - Portfolio
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <br>
 
 **languages :**
