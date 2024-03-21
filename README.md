@@ -91,7 +91,7 @@ JAVAフルスタック過程を終えて機会があれば様々な開発言語�
 
 - 2024.03 ~ 광운대 스마트융합대학원 전공 : IT관광외식산업 재학中
 <br /><br />
-## Portfolio 뱃지를 클릭하시면 포트폴리오를 보실 수 있습니다^^
+## Portfolio ▼각 뱃지를 클릭하시면 포트폴리오를 보실 수 있습니다^^
 <a href="http://yplift.dothome.co.kr/bose_renewal/">
    <img src="https://img.shields.io/badge/bose-000000?style=for-the-badge&logo=bose&logoColor=white"> 
 </a>
